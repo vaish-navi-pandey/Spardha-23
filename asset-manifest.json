@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.80f7fa94.css",
-    "main.js": "/static/js/main.e872f80a.js",
+    "main.js": "/static/js/main.21c44514.js",
     "static/css/285.dcf524de.chunk.css": "/static/css/285.dcf524de.chunk.css",
-    "static/js/285.a35a3ea7.chunk.js": "/static/js/285.a35a3ea7.chunk.js",
+    "static/js/285.ff11d277.chunk.js": "/static/js/285.ff11d277.chunk.js",
     "static/css/670.025f043f.chunk.css": "/static/css/670.025f043f.chunk.css",
     "static/js/670.b2656b4c.chunk.js": "/static/js/670.b2656b4c.chunk.js",
     "static/css/577.d5fb8e26.chunk.css": "/static/css/577.d5fb8e26.chunk.css",
@@ -83,9 +83,9 @@
     "static/media/testi-5.jpg": "/static/media/testi-5.e9c4108f20abc5ae7b53.jpg",
     "index.html": "/index.html",
     "main.80f7fa94.css.map": "/static/css/main.80f7fa94.css.map",
-    "main.e872f80a.js.map": "/static/js/main.e872f80a.js.map",
+    "main.21c44514.js.map": "/static/js/main.21c44514.js.map",
     "285.dcf524de.chunk.css.map": "/static/css/285.dcf524de.chunk.css.map",
-    "285.a35a3ea7.chunk.js.map": "/static/js/285.a35a3ea7.chunk.js.map",
+    "285.ff11d277.chunk.js.map": "/static/js/285.ff11d277.chunk.js.map",
     "670.025f043f.chunk.css.map": "/static/css/670.025f043f.chunk.css.map",
     "670.b2656b4c.chunk.js.map": "/static/js/670.b2656b4c.chunk.js.map",
     "577.d5fb8e26.chunk.css.map": "/static/css/577.d5fb8e26.chunk.css.map",
@@ -135,6 +135,6 @@
   },
   "entrypoints": [
     "static/css/main.80f7fa94.css",
-    "static/js/main.e872f80a.js"
+    "static/js/main.21c44514.js"
   ]
 }
