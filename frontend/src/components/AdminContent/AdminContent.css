@@ -169,17 +169,6 @@ h3{
     }
 }
 .hero-btn{
-    /* text-decoration: none;
-    display: inline-block;
-    color: white;
-    border: 1px solid white;
-    padding: 12px 34px;
-    font-size: 13px;
-    background: transparent;
-    position: relative;
-    cursor: pointer;
-    background-color: green; */
-
     display: flex;
     width: 161px;
     height: 25px;
@@ -201,37 +190,10 @@ h3{
     margin: 16px auto;
 }
 .hero-btn:hover{
-    /* border: 1px solid rgb(0, 0, 0); */
-    /* background: rgb(9, 56, 18); */
     background: var(--main-blue, #4D44B5);
     color: #FFF;
     transition: 300ms;
 }
-.logoutbtn{
-/* display: flex;
-justify-content: center;
-align-items: center;
-   border: 1.5px solid #4D44B5;
-   padding: 1vh 3vw;
-   border-radius: 30px;
-   height: fit-content; */
-   display: inline-flex;
-padding: 9px 33px;
-justify-content: center;
-align-items: center;
-gap: 10px;
-border-radius: 35px;
-border: 2px solid #4D44B5;
-margin: 3px;
-
-color: var(--main-blue, #4D44B5);
-font-family: Poppins;
-font-size: 16px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-    
-    }
     .admininfo{
         display: flex;
         margin-top: 20px;
